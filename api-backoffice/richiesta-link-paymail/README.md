@@ -1,0 +1,2 @@
+# Richiesta link PayMail
+Il servizio consente di ottenere un link di pagamento che inviato ad esempio per e-mail al cliente gli consente di essere rimandato sulle pagine di pagamento X-Pay e completare la transazione in sicurezza.
